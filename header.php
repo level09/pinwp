@@ -150,7 +150,7 @@ blockquote { border-color: #e25119; }
 			</script>
 
         </div>
-    <div style="clear: both;padding-bottom: 50px;"></div>
+    <div style="clear: both;padding-bottom: 30px;"></div>
 <div class="wrapper" id="wrapper">
 	
 	<?php in_category( $category, $_post ) ?>
