@@ -1,4 +1,4 @@
-HEA	</div><!-- #main -->
+</div><!-- #main -->
 </div>
 	<div id="footer">
             
