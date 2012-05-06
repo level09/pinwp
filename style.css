@@ -17,7 +17,9 @@ body {
 	position: relative;
 	color: #333;
 	font-family:arial, sans-serif;
-	background: url(../pin_board/images/main_bg.png);
+	background: #F0F0F0 url(images/tile.gif) repeat -70% 0
+	
+
 }
 body, input, textarea {
 	font-size: 13px;
@@ -118,7 +120,7 @@ blockquote {
 	overflow: hidden;
 }
 .header_banner_left {
-	background:  url(../pin_board/images/header_banner_left.png) no-repeat;
+	background:  url(images/header_banner_left.png) no-repeat;
 	height:64px;
 	width:19px;
 	float: left;
@@ -129,7 +131,7 @@ blockquote {
 	height: 64px;
 }
 .header_banner_right {
-	background:url(../pin_board/images/header_banner_right.png) no-repeat;
+	background:url(images/header_banner_right.png) no-repeat;
 	height:64px;
 	width:19px;
 	float: right;
@@ -155,7 +157,7 @@ blockquote {
 }
 #header_banner_btn span {
 	float: left;
-	background: url(../pin_board/images/header_btn.png) repeat-x;
+	background: url(images/header_btn.png) repeat-x;
 	padding:8px 10px;
 	margin-right: 10px;
 	-moz-border-radius: 10px;
@@ -225,7 +227,7 @@ blockquote {
 	height: 30px;
 	width: 27px;
 	text-indent: -999999px;
-	background: url(../pin_board/images/search_btn.png) no-repeat;
+	background: url(images/search_btn.png) no-repeat;
 	margin-left: -27px;
 }
 #search input[type=text] {
@@ -665,7 +667,7 @@ input[type="text"], textarea {
 	border-radius: 10px;
 }
 .footer_links {
-	background:  url(../pin_board/images/footer_bg.png) no-repeat;
+	background:  url(images/footer_bg.png) no-repeat;
 	width: 958px;
 	height: 53px;
 	float: left;
@@ -701,7 +703,7 @@ input[type="text"], textarea {
 }
 #feedburner_email_widget_sbef_submit {
 	margin-left: 5px;
-	background:#DF5A02 url(../pin_board/images/header_btn.png) repeat-x;
+	background:#DF5A02 url(images/header_btn.png) repeat-x;
 	padding:1px 10px 4px;
 	font-family: 'oswald', arial;
 	font-size: 16px;

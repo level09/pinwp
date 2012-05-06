@@ -73,7 +73,13 @@
 		<?php endif; ?>
 							<div class="clear"></div>
 							
-								<a target="_blank" href="<?php  echo get_post_meta($post->ID,'url',1); ?>">Apply Now </a>
+							<?php
+							
+							$url = get_post_meta($post->ID,'url',1);
+							if ( trim($url) !='') {
+							?>
+								<a target="_blank" href="<?php echo $url?>">Apply Now </a>
+								<?php } ?>
 							
 							<div class="entry-utility">
 								<?php pin_board_tags() ?>

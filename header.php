@@ -137,12 +137,12 @@ blockquote { border-color: #e25119; }
     </div>
    
         <div id="header_banner">
-            <span class="header_banner_left"></span>
-            <span class="header_banner_mid">
+
+
                 
 
             </span>
-            <span class="header_banner_right"></span>
+
         </div></div>
     <div style="clear: both;padding-bottom: 150px;"></div>
 <div class="wrapper" id="wrapper">
