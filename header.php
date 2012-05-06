@@ -137,14 +137,20 @@ blockquote { border-color: #e25119; }
     </div>
    
         <div id="header_banner">
+      		<script type="text/javascript"><!--
+			google_ad_client = "ca-pub-4566566110642005";
+			/* UAE Board Main AD */
+			google_ad_slot = "7543625206";
+			google_ad_width = 728;
+			google_ad_height = 90;
+			//-->
+			</script>
+			<script type="text/javascript"
+			src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+			</script>
 
-
-                
-
-            </span>
-
-        </div></div>
-    <div style="clear: both;padding-bottom: 150px;"></div>
+        </div>
+    <div style="clear: both;padding-bottom: 50px;"></div>
 <div class="wrapper" id="wrapper">
 	
 	<?php in_category( $category, $_post ) ?>
