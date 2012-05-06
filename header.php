@@ -139,13 +139,8 @@ blockquote { border-color: #e25119; }
         <div id="header_banner">
             <span class="header_banner_left"></span>
             <span class="header_banner_mid">
-                <h1>Pinterest is an online pinboard <span>Organize and share things you love</span></h1>
-<!--                <div id="header_banner_btn"><span><a href="<?php echo wp_login_url( $redirect ).'?action=register'; ?>">Register >></a></span><span><a href="<?php echo wp_login_url( $redirect ); ?>">Login </a></span></div>-->
-                <div id="sidebar">
-                    <?php if ( !function_exists('dynamic_sidebar')
-                            || !dynamic_sidebar() ) : ?>
-                    <?php endif; ?>
-                </div>
+                
+
             </span>
             <span class="header_banner_right"></span>
         </div></div>

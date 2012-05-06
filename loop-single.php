@@ -72,7 +72,9 @@
 							</div><!-- #entry-author-info -->
 		<?php endif; ?>
 							<div class="clear"></div>
-
+							
+								<a target="_blank" href="<?php  echo get_post_meta($post->ID,'url',1); ?>">Apply Now </a>
+							
 							<div class="entry-utility">
 								<?php pin_board_tags() ?>
 								<?php edit_post_link( __( 'Edit', 'pin_board' ), '<span class="edit-link">', '</span>' ); ?>
