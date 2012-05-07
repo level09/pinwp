@@ -116,9 +116,9 @@ blockquote {
 }
 #header_banner {
 	margin: 0 auto;
-	width:560px;
+	width:728px;
 	overflow: hidden;
-	margin-top: 30px;
+	margin-top: 20px;
 }
 .header_banner_left {
 	background:  url(images/header_banner_left.png) no-repeat;
